@@ -1,0 +1,17 @@
+F:\ds\aula2202\aula2202\obj\Debug\calculadoraGrafica.csprojResolveAssemblyReference.cache
+F:\ds\aula2202\aula2202\obj\Debug\aula2202.Form1.resources
+F:\ds\aula2202\aula2202\obj\Debug\aula2202.Properties.Resources.resources
+F:\ds\aula2202\aula2202\obj\Debug\calculadoraGrafica.csproj.GenerateResource.Cache
+F:\ds\aula2202\aula2202\bin\Debug\aula2202.exe.config
+F:\ds\aula2202\aula2202\bin\Debug\aula2202.exe
+F:\ds\aula2202\aula2202\bin\Debug\aula2202.pdb
+F:\ds\aula2202\aula2202\obj\Debug\aula2202.exe
+F:\ds\aula2202\aula2202\obj\Debug\aula2202.pdb
+D:\ds\calculadoraGrafica\aula2202\bin\Debug\aula2202.exe.config
+D:\ds\calculadoraGrafica\aula2202\bin\Debug\aula2202.exe
+D:\ds\calculadoraGrafica\aula2202\bin\Debug\aula2202.pdb
+D:\ds\calculadoraGrafica\aula2202\obj\Debug\aula2202.Form1.resources
+D:\ds\calculadoraGrafica\aula2202\obj\Debug\aula2202.Properties.Resources.resources
+D:\ds\calculadoraGrafica\aula2202\obj\Debug\calculadoraGrafica.csproj.GenerateResource.Cache
+D:\ds\calculadoraGrafica\aula2202\obj\Debug\aula2202.exe
+D:\ds\calculadoraGrafica\aula2202\obj\Debug\aula2202.pdb
